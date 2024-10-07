@@ -1,4 +1,6 @@
-This is an implementation of the project requirements from https://jeapostrophe.github.io/courses/2021/fall/304/course/.
+# Automata Readme
+
+This is an implementation of the project requirements from [Jay McCarthy at UMass Lowell](https://jeapostrophe.github.io/courses/2021/fall/304/course/).
 
 Implementation will be done in C++, using Trunk Code Quality as a linter. 
 
